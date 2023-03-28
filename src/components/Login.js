@@ -94,8 +94,8 @@ function Login() {
                   </Link>
                 </div>
                 <div className="text-white">
-                  email : test@gmail.com <br />
-                  password : 12345678
+                  email : demo@gmail.com <br />
+                  password : 123456789
                 </div>
               </div>
             </form>
