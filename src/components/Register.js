@@ -117,7 +117,8 @@ function Register() {
             </form>
           </div>
           <div className="mt-3 text-white text-center created">
-            Simple Todo Created by <span className="bg-danger by"> Raja </span>
+            Simple Todo Created by{" "}
+            <span className="bg-danger by"> Gayathiri </span>
           </div>
         </div>
       </div>
